@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  Building executable AI systems with inspectable and reproducible results.<br />
-  把想法做成可运行的系统，把结果变成可核查的证据。
+  Building executable AI systems with inspectable and reproducible results.
 </p>
 
 ---
@@ -48,7 +47,6 @@
 
 Turning research ideas into systems that can be inspected, tested, and reproduced. I value explicit assumptions, useful failure cases, and evidence that makes the limits of a method clear.
 
-把想法做成可运行的系统，把结果变成可核查的证据。
 
 ---
 
