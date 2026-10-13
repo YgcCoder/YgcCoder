@@ -48,6 +48,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<p>
+  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="assets/scholar-citations.svg" alt="Google Scholar citations" /></a>
+</p>
+
 ## 🌱 What I Care About
 
 Turning research ideas into systems that can be inspected, tested, and reproduced. I value explicit assumptions, useful failure cases, and evidence that makes the limits of a method clear.
