@@ -1,19 +1,23 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Yuchen C — AI systems, software reliability, and time-series research" width="100%" />
+  <img src="assets/header.svg" alt="Hi 👋 I'm Yuchen C" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/YgcCoder?tab=repositories"><strong>🌐 Explore my projects →</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YgcCoder?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore my work" /></a>
-  <img src="https://img.shields.io/badge/LLM_Systems-0F172A?style=flat-square" alt="LLM Systems" />
-  <img src="https://img.shields.io/badge/Software_Reliability-0F172A?style=flat-square" alt="Software Reliability" />
-  <img src="https://img.shields.io/badge/Time_Series-0F172A?style=flat-square" alt="Time Series" />
+  🧠 LLM Systems &amp; Coding Agents · 🛠 Software Testing &amp; Reliability · 📈 Time-Series Research
 </p>
 
-## Hi, I'm Yuchen 👋
+<p align="center">
+  Building executable AI systems with inspectable and reproducible results.<br />
+  把想法做成可运行的系统，把结果变成可核查的证据。
+</p>
 
-I build and study AI systems with an emphasis on **execution, evaluation, and reproducibility**. My public work spans LLM routing, repository-level coding agents, autonomous-driving software testing, and information-theoretic time-series analysis.
-
-我关注 AI 如何进入真实的软件流程：从模型输出，到可执行的系统，再到能够检查和复现的实验结果。
+---
 
 ## 🔬 Research & Engineering
 
