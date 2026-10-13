@@ -13,6 +13,15 @@
 </p>
 
 <p align="center">
+  📍 Hong Kong, China · ✉️ <a href="mailto:yuchencyc869@gmail.com">yuchencyc869@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="assets/scholar-citations.svg" alt="Google Scholar citations" /></a>
+</p>
+
+<p align="center">
   💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
 </p>
 
@@ -46,11 +55,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p>
-  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="assets/scholar-citations.svg" alt="Google Scholar citations" /></a>
 </p>
 
 ## 🌱 What I Care About
