@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
+  💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Financial Time Series &amp; Information Theory
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 - **Code generation & optimization** · LLM-assisted code generation, execution-based feedback, and iterative improvement, with a focus on SWE-bench tasks and quantitative trading code.
 - **Software testing & reliability** · Failure analysis, test-scenario amplification, and regression evaluation.
-- **Time series & information theory** · Transfer entropy, Gaussian geometry, and numerical robustness.
+- **Financial time series & information theory** · Multi-asset forecasting, regime-aware learning, cross-asset dependencies, event–sentiment fusion, interpretable modeling, and transfer entropy.
 
 ## 🧩 Selected Projects
 
