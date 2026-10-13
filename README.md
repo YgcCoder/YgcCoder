@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  🎓 Third-year Ph.D. Candidate at City University of Hong Kong
+</p>
+
+<p align="center">
   💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
 </p>
 
