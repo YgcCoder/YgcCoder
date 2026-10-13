@@ -5,29 +5,31 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/YgcCoder?tab=repositories"><strong>🌐 Explore my projects →</strong></a>
+  <a href="https://github.com/YgcCoder/SysTB"><strong>📈 Project: SysTradeBench (SysTB) →</strong></a><br />
+  <a href="https://github.com/YgcCoder?tab=repositories">Explore all projects</a>
 </p>
 
 <p align="center">
-  🧠 LLM Systems &amp; Coding Agents · 🛠 Software Testing &amp; Reliability · 📈 Time-Series Research
+  📈 Quantitative Trading Code &amp; Systems
 </p>
 
 <p align="center">
-  Building executable AI systems with inspectable and reproducible results.
+  Turning trading strategies into executable, testable, and reproducible code.
 </p>
 
 ---
 
 ## 🔬 Research & Engineering
 
-- **LLM systems & coding agents** · Routing constraints, repository retrieval, and execution-based feedback.
-- **Software testing & reliability** · Failure analysis, test-scenario amplification, and regression evaluation.
-- **Time series & information theory** · Transfer entropy, Gaussian geometry, and numerical robustness.
+My main focus is **quantitative trading code and systems**: building the workflow that turns a strategy specification into executable code, backtests, evaluation records, and iterative improvements. I study how LLMs and coding agents can support this workflow while preserving the intended trading logic.
+
+I am particularly interested in strategy-to-code generation, backtesting infrastructure, code correctness, risk constraints, and evidence-driven repair. **[SysTradeBench (SysTB)](https://github.com/YgcCoder/SysTB)** brings these interests together in an iterative build–test–patch benchmark for trading systems.
 
 ## 🧩 Selected Projects
 
 | Project | Focus | What's inside |
 | :--- | :--- | :--- |
+| **[SysTradeBench (SysTB)](https://github.com/YgcCoder/SysTB)** | **Quantitative trading code & evaluation** | Strategy-to-code generation, sandboxed backtesting, validity checks, cross-model evaluation, and iterative repair. Currently under revision. |
 | [RouteBR](https://github.com/YgcCoder/RouteBR) | Constrained LLM routing | Deterministic pre-response controller, a 600-scenario benchmark, and reproducibility records. |
 | [Bug2Scenario](https://github.com/YgcCoder/Bug2Sce) | Autonomous-driving software testing | Root-cause-guided scenario amplification, simulator integration, and execution-based preservation assessment. |
 | [SpectralCSTE](https://github.com/YgcCoder/SpectralCSTE) | Transfer entropy & time series | Gaussian CS-TE experiments, numerical audits, frozen configurations, and reproducible outputs. |
@@ -45,7 +47,7 @@
 
 ## 🌱 What I Care About
 
-Turning research ideas into systems that can be inspected, tested, and reproduced. I value explicit assumptions, useful failure cases, and evidence that makes the limits of a method clear.
+Building a reliable quantitative coding workflow from strategy specification to evaluation and repair. I care about preserving strategy semantics, checking execution and risk constraints, and making backtest evidence reproducible.
 
 
 ---
