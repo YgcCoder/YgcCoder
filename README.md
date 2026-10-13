@@ -13,15 +13,6 @@
 </p>
 
 <p align="center">
-  📍 Hong Kong, China · ✉️ <a href="mailto:yuchencyc869@gmail.com">yuchencyc869@gmail.com</a>
-</p>
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://scholar.google.com/citations?user=ERtvH7kAAAAJ&amp;hl=en"><img src="assets/scholar-citations.svg" alt="Google Scholar citations" /></a>
-</p>
-
-<p align="center">
   💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
 </p>
 
