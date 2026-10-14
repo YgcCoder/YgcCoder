@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💻 Code Generation &amp; Optimization · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
+  💻 Code Generation &amp; Evaluation · 🛠 Software Testing &amp; Reliability · 📈 Time Series &amp; Information Theory
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🔬 Research & Engineering
 
-- **Code generation & optimization** · LLM-assisted code generation, execution-based feedback, and iterative improvement, with a focus on SWE-bench tasks and quantitative trading code.
+- **Code generation & evaluation** · Benchmarking LLMs and coding agents on SWE-bench tasks and quantitative trading code, with execution-based evaluation and iterative refinement.
 - **Software testing & reliability** · Failure analysis, test-scenario amplification, and regression evaluation.
 - **Time series & information theory**
 
